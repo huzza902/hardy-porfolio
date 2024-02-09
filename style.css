@@ -79,3 +79,23 @@ color: #474747;
     background-position: bottom right;
     background-color: aliceblue;
 }
+/* about section */
+.about{
+    padding: 140px;
+    border-radius: 15px;
+    background-color: bisque;
+    margin: 130px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info-title{
+    font-size: 14px;
+    color: dimgrey;
+}
+.sec-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 15px;
+}
