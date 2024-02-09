@@ -127,3 +127,31 @@ color: #474747;
     padding: 05px;
     text-align: center;
 }
+/* resume styles */
+.resume-container hr{
+    margin: 30px;
+    
+}
+.resume-info-title{
+    color: darkblue;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resume-inst{
+    color: #474747;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.resume-info-des{
+    color: #757575;
+}
+.resume-container{display: flex;
+gap: 30px;
+padding: 140px;}
+section{
+    margin-top: 100px;
+}
+.download-cv{
+    text-align: center;
+}
