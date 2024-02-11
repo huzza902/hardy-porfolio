@@ -74,9 +74,9 @@ color: #474747;
 }
 .banner.pro-pic{width: 500px;}
 .header{
-    background-image: url("images/header_bg.png");
+    background-image: url("images/header_bg.png"), url("../images/developer.png");
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
     background-color: aliceblue;
 }
 /* about section */
